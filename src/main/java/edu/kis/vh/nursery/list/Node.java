@@ -33,4 +33,6 @@ public class Node {
 	public void setNext(Node next) {
 		this.next = next;
 	}
+
+	//Nie ma żadnych setterów które można usunąć, ponieważ wszystkie są używane.
 }
