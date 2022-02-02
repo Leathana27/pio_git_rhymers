@@ -37,5 +37,5 @@ public class DefaultCountingOutRhymer {
     public int getTotal() {
         return total;
     }
-
+// TODO: nie używana funkcja getTotal - można ją usunąć.
 }

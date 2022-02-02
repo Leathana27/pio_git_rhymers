@@ -22,7 +22,7 @@ public class DefaultRhymersFactory implements Rhymersfactory {
     public DefaultCountingOutRhymer getFalseRhymer() {
         return new DefaultCountingOutRhymer();
     }
-
+// TODO: oba gettery zwracją to samo
     @Override
     public DefaultCountingOutRhymer getFIFORhymer() {
         return new FIFORhymer();
