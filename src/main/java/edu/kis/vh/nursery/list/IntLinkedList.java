@@ -1,7 +1,7 @@
 package edu.kis.vh.nursery.list;
 
 public class IntLinkedList {
-
+//TODO: cała klasa jest nie używana
   private static final int ERRNO_LIST_EMPTY = -1;
 	private Node last;
 	private int i;
